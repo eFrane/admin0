@@ -7,7 +7,7 @@ json_data = json.load(fd, encoding="utf-8")
 fd.close()
 
 for feature in json_data["features"]:
-  country_name = feature["properties"]["admin"]
+  country_name = feature["properties"]["ADMIN"]
   #print(country_name)
 
   country = { 'type': 'FeatureCollection', 'features': [feature]}
