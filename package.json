@@ -1,0 +1,25 @@
+{
+  "name": "admin0",
+  "version": "3.1.0",
+  "description": "admin0 country boundaries from naturalearth data",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eFrane/admin0.git"
+  },
+  "keywords": [
+    "admin0",
+    "country",
+    "geojson",
+    "boundary",
+    "bounds"
+  ],
+  "author": "Stefan Graupner <stefan.graupner@gmail.com>",
+  "contributors": [{
+      "name": "Natural Earth Data Contributors",
+      "url": "https://naturalearthdata.com"
+  }],
+  "bugs": {
+    "url": "https://github.com/eFrane/admin0/issues"
+  },
+  "homepage": "https://github.com/eFrane/admin0#readme"
+}
