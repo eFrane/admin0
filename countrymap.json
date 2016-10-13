@@ -1,0 +1,1041 @@
+[
+    {
+        "name": "Aruba", 
+        "filename": "north-america/AW.geojson"
+    }, 
+    {
+        "name": "Islamic State of Afghanistan", 
+        "filename": "asia/AF.geojson"
+    }, 
+    {
+        "name": "People's Republic of Angola", 
+        "filename": "africa/AO.geojson"
+    }, 
+    {
+        "name": null, 
+        "filename": "north-america/AI.geojson"
+    }, 
+    {
+        "name": "Republic of Albania", 
+        "filename": "europe/AL.geojson"
+    }, 
+    {
+        "name": "\u00c5land Islands", 
+        "filename": "europe/AX.geojson"
+    }, 
+    {
+        "name": "Principality of Andorra", 
+        "filename": "europe/AD.geojson"
+    }, 
+    {
+        "name": "United Arab Emirates", 
+        "filename": "asia/AE.geojson"
+    }, 
+    {
+        "name": "Argentine Republic", 
+        "filename": "south-america/AR.geojson"
+    }, 
+    {
+        "name": "Republic of Armenia", 
+        "filename": "asia/AM.geojson"
+    }, 
+    {
+        "name": "American Samoa", 
+        "filename": "oceania/AS.geojson"
+    }, 
+    {
+        "name": null, 
+        "filename": "antarctica/AQ.geojson"
+    }, 
+    {
+        "disputed": true, 
+        "name": "Territory of Ashmore and Cartier Islands", 
+        "filename": "oceania/ashmore-and-cartier-islands.geojson"
+    }, 
+    {
+        "name": "Territory of the French Southern and Antarctic Lands", 
+        "filename": "seven-seas-open-ocean/TF.geojson"
+    }, 
+    {
+        "name": "Antigua and Barbuda", 
+        "filename": "north-america/AG.geojson"
+    }, 
+    {
+        "name": "Commonwealth of Australia", 
+        "filename": "oceania/AU.geojson"
+    }, 
+    {
+        "name": "Republic of Austria", 
+        "filename": "europe/AT.geojson"
+    }, 
+    {
+        "name": "Republic of Azerbaijan", 
+        "filename": "asia/AZ.geojson"
+    }, 
+    {
+        "name": "Republic of Burundi", 
+        "filename": "africa/BI.geojson"
+    }, 
+    {
+        "name": "Kingdom of Belgium", 
+        "filename": "europe/BE.geojson"
+    }, 
+    {
+        "name": "Republic of Benin", 
+        "filename": "africa/BJ.geojson"
+    }, 
+    {
+        "name": "Burkina Faso", 
+        "filename": "africa/BF.geojson"
+    }, 
+    {
+        "name": "People's Republic of Bangladesh", 
+        "filename": "asia/BD.geojson"
+    }, 
+    {
+        "name": "Republic of Bulgaria", 
+        "filename": "europe/BG.geojson"
+    }, 
+    {
+        "name": "Kingdom of Bahrain", 
+        "filename": "asia/BH.geojson"
+    }, 
+    {
+        "name": "Commonwealth of the Bahamas", 
+        "filename": "north-america/BS.geojson"
+    }, 
+    {
+        "name": "Bosnia and Herzegovina", 
+        "filename": "europe/BA.geojson"
+    }, 
+    {
+        "disputed": true, 
+        "name": null, 
+        "filename": "north-america/bajo-nuevo-bank-(petrel-is.).geojson"
+    }, 
+    {
+        "name": "Saint-Barth\u00e9lemy", 
+        "filename": "north-america/BL.geojson"
+    }, 
+    {
+        "name": "Republic of Belarus", 
+        "filename": "europe/BY.geojson"
+    }, 
+    {
+        "name": "Belize", 
+        "filename": "north-america/BZ.geojson"
+    }, 
+    {
+        "name": "The Bermudas or Somers Isles", 
+        "filename": "north-america/BM.geojson"
+    }, 
+    {
+        "name": "Plurinational State of Bolivia", 
+        "filename": "south-america/BO.geojson"
+    }, 
+    {
+        "name": "Federative Republic of Brazil", 
+        "filename": "south-america/BR.geojson"
+    }, 
+    {
+        "name": "Barbados", 
+        "filename": "north-america/BB.geojson"
+    }, 
+    {
+        "name": "Negara Brunei Darussalam", 
+        "filename": "asia/BN.geojson"
+    }, 
+    {
+        "name": "Kingdom of Bhutan", 
+        "filename": "asia/BT.geojson"
+    }, 
+    {
+        "name": "Republic of Botswana", 
+        "filename": "africa/BW.geojson"
+    }, 
+    {
+        "name": "Central African Republic", 
+        "filename": "africa/CF.geojson"
+    }, 
+    {
+        "name": "Canada", 
+        "filename": "north-america/CA.geojson"
+    }, 
+    {
+        "name": "Swiss Confederation", 
+        "filename": "europe/CH.geojson"
+    }, 
+    {
+        "name": "Republic of Chile", 
+        "filename": "south-america/CL.geojson"
+    }, 
+    {
+        "name": "People's Republic of China", 
+        "filename": "asia/CN.geojson"
+    }, 
+    {
+        "name": "Republic of Ivory Coast", 
+        "filename": "africa/CI.geojson"
+    }, 
+    {
+        "disputed": true, 
+        "name": null, 
+        "filename": "seven-seas-open-ocean/clipperton-island.geojson"
+    }, 
+    {
+        "name": "Republic of Cameroon", 
+        "filename": "africa/CM.geojson"
+    }, 
+    {
+        "disputed": true, 
+        "name": "Cyprus No Mans Land", 
+        "filename": "asia/cyprus-no-mans-area.geojson"
+    }, 
+    {
+        "name": "Democratic Republic of the Congo", 
+        "filename": "africa/CD.geojson"
+    }, 
+    {
+        "name": "Republic of Congo", 
+        "filename": "africa/CG.geojson"
+    }, 
+    {
+        "name": null, 
+        "filename": "oceania/CK.geojson"
+    }, 
+    {
+        "name": "Republic of Colombia", 
+        "filename": "south-america/CO.geojson"
+    }, 
+    {
+        "name": "Union of the Comoros", 
+        "filename": "africa/KM.geojson"
+    }, 
+    {
+        "name": "Republic of Cape Verde", 
+        "filename": "africa/CV.geojson"
+    }, 
+    {
+        "name": "Republic of Costa Rica", 
+        "filename": "north-america/CR.geojson"
+    }, 
+    {
+        "disputed": true, 
+        "name": "Coral Sea Islands Territory", 
+        "filename": "oceania/coral-sea-islands.geojson"
+    }, 
+    {
+        "name": "Republic of Cuba", 
+        "filename": "north-america/CU.geojson"
+    }, 
+    {
+        "name": "Cura\u00e7ao", 
+        "filename": "north-america/CW.geojson"
+    }, 
+    {
+        "name": "Cayman Islands", 
+        "filename": "north-america/KY.geojson"
+    }, 
+    {
+        "disputed": true, 
+        "name": "Turkish Republic of Northern Cyprus", 
+        "filename": "asia/northern-cyprus.geojson"
+    }, 
+    {
+        "name": "Republic of Cyprus", 
+        "filename": "asia/CY.geojson"
+    }, 
+    {
+        "name": "Czech Republic", 
+        "filename": "europe/CZ.geojson"
+    }, 
+    {
+        "name": "Federal Republic of Germany", 
+        "filename": "europe/DE.geojson"
+    }, 
+    {
+        "name": "Republic of Djibouti", 
+        "filename": "africa/DJ.geojson"
+    }, 
+    {
+        "name": "Commonwealth of Dominica", 
+        "filename": "north-america/DM.geojson"
+    }, 
+    {
+        "name": "Kingdom of Denmark", 
+        "filename": "europe/DK.geojson"
+    }, 
+    {
+        "name": "Dominican Republic", 
+        "filename": "north-america/DO.geojson"
+    }, 
+    {
+        "name": "People's Democratic Republic of Algeria", 
+        "filename": "africa/DZ.geojson"
+    }, 
+    {
+        "name": "Republic of Ecuador", 
+        "filename": "south-america/EC.geojson"
+    }, 
+    {
+        "name": "Arab Republic of Egypt", 
+        "filename": "africa/EG.geojson"
+    }, 
+    {
+        "name": "State of Eritrea", 
+        "filename": "africa/ER.geojson"
+    }, 
+    {
+        "disputed": true, 
+        "name": null, 
+        "filename": "asia/dhekelia-sovereign-base-area.geojson"
+    }, 
+    {
+        "name": "Kingdom of Spain", 
+        "filename": "europe/ES.geojson"
+    }, 
+    {
+        "name": "Republic of Estonia", 
+        "filename": "europe/EE.geojson"
+    }, 
+    {
+        "name": "Federal Democratic Republic of Ethiopia", 
+        "filename": "africa/ET.geojson"
+    }, 
+    {
+        "name": "Republic of Finland", 
+        "filename": "europe/FI.geojson"
+    }, 
+    {
+        "name": "Republic of Fiji", 
+        "filename": "oceania/FJ.geojson"
+    }, 
+    {
+        "name": "Falkland Islands", 
+        "filename": "south-america/FK.geojson"
+    }, 
+    {
+        "disputed": true, 
+        "name": "French Republic", 
+        "filename": "europe/france.geojson"
+    }, 
+    {
+        "name": "F\u00f8royar Is. (Faeroe Is.)", 
+        "filename": "europe/FO.geojson"
+    }, 
+    {
+        "name": "Federated States of Micronesia", 
+        "filename": "oceania/FM.geojson"
+    }, 
+    {
+        "name": "Gabonese Republic", 
+        "filename": "africa/GA.geojson"
+    }, 
+    {
+        "name": "United Kingdom of Great Britain and Northern Ireland", 
+        "filename": "europe/GB.geojson"
+    }, 
+    {
+        "name": "Georgia", 
+        "filename": "asia/GE.geojson"
+    }, 
+    {
+        "name": "Bailiwick of Guernsey", 
+        "filename": "europe/GG.geojson"
+    }, 
+    {
+        "name": "Republic of Ghana", 
+        "filename": "africa/GH.geojson"
+    }, 
+    {
+        "name": null, 
+        "filename": "europe/GI.geojson"
+    }, 
+    {
+        "name": "Republic of Guinea", 
+        "filename": "africa/GN.geojson"
+    }, 
+    {
+        "name": "Republic of the Gambia", 
+        "filename": "africa/GM.geojson"
+    }, 
+    {
+        "name": "Republic of Guinea-Bissau", 
+        "filename": "africa/GW.geojson"
+    }, 
+    {
+        "name": "Republic of Equatorial Guinea", 
+        "filename": "africa/GQ.geojson"
+    }, 
+    {
+        "name": "Hellenic Republic", 
+        "filename": "europe/GR.geojson"
+    }, 
+    {
+        "name": "Grenada", 
+        "filename": "north-america/GD.geojson"
+    }, 
+    {
+        "name": "Greenland", 
+        "filename": "north-america/GL.geojson"
+    }, 
+    {
+        "name": "Republic of Guatemala", 
+        "filename": "north-america/GT.geojson"
+    }, 
+    {
+        "name": "Territory of Guam", 
+        "filename": "oceania/GU.geojson"
+    }, 
+    {
+        "name": "Co-operative Republic of Guyana", 
+        "filename": "south-america/GY.geojson"
+    }, 
+    {
+        "name": "Hong Kong Special Administrative Region, PRC", 
+        "filename": "asia/HK.geojson"
+    }, 
+    {
+        "name": "Territory of Heard Island and McDonald Islands", 
+        "filename": "seven-seas-open-ocean/HM.geojson"
+    }, 
+    {
+        "name": "Republic of Honduras", 
+        "filename": "north-america/HN.geojson"
+    }, 
+    {
+        "name": "Republic of Croatia", 
+        "filename": "europe/HR.geojson"
+    }, 
+    {
+        "name": "Republic of Haiti", 
+        "filename": "north-america/HT.geojson"
+    }, 
+    {
+        "name": "Republic of Hungary", 
+        "filename": "europe/HU.geojson"
+    }, 
+    {
+        "name": "Republic of Indonesia", 
+        "filename": "asia/ID.geojson"
+    }, 
+    {
+        "name": null, 
+        "filename": "europe/IM.geojson"
+    }, 
+    {
+        "name": "Republic of India", 
+        "filename": "asia/IN.geojson"
+    }, 
+    {
+        "disputed": true, 
+        "name": null, 
+        "filename": "asia/indian-ocean-territories.geojson"
+    }, 
+    {
+        "name": null, 
+        "filename": "seven-seas-open-ocean/IO.geojson"
+    }, 
+    {
+        "name": "Ireland", 
+        "filename": "europe/IE.geojson"
+    }, 
+    {
+        "name": "Islamic Republic of Iran", 
+        "filename": "asia/IR.geojson"
+    }, 
+    {
+        "name": "Republic of Iraq", 
+        "filename": "asia/IQ.geojson"
+    }, 
+    {
+        "name": "Republic of Iceland", 
+        "filename": "europe/IS.geojson"
+    }, 
+    {
+        "name": "State of Israel", 
+        "filename": "asia/IL.geojson"
+    }, 
+    {
+        "name": "Italian Republic", 
+        "filename": "europe/IT.geojson"
+    }, 
+    {
+        "name": "Jamaica", 
+        "filename": "north-america/JM.geojson"
+    }, 
+    {
+        "name": "Bailiwick of Jersey", 
+        "filename": "europe/JE.geojson"
+    }, 
+    {
+        "name": "Hashemite Kingdom of Jordan", 
+        "filename": "asia/JO.geojson"
+    }, 
+    {
+        "name": "Japan", 
+        "filename": "asia/JP.geojson"
+    }, 
+    {
+        "disputed": true, 
+        "name": null, 
+        "filename": "asia/baykonur-cosmodrome.geojson"
+    }, 
+    {
+        "disputed": true, 
+        "name": null, 
+        "filename": "asia/siachen-glacier.geojson"
+    }, 
+    {
+        "name": "Republic of Kazakhstan", 
+        "filename": "asia/KZ.geojson"
+    }, 
+    {
+        "name": "Republic of Kenya", 
+        "filename": "africa/KE.geojson"
+    }, 
+    {
+        "name": "Kyrgyz Republic", 
+        "filename": "asia/KG.geojson"
+    }, 
+    {
+        "name": "Kingdom of Cambodia", 
+        "filename": "asia/KH.geojson"
+    }, 
+    {
+        "name": "Republic of Kiribati", 
+        "filename": "oceania/KI.geojson"
+    }, 
+    {
+        "name": "Federation of Saint Kitts and Nevis", 
+        "filename": "north-america/KN.geojson"
+    }, 
+    {
+        "name": "Republic of Korea", 
+        "filename": "asia/KR.geojson"
+    }, 
+    {
+        "disputed": true, 
+        "name": "Republic of Kosovo", 
+        "filename": "europe/kosovo.geojson"
+    }, 
+    {
+        "name": "State of Kuwait", 
+        "filename": "asia/KW.geojson"
+    }, 
+    {
+        "name": "Lao People's Democratic Republic", 
+        "filename": "asia/LA.geojson"
+    }, 
+    {
+        "name": "Lebanese Republic", 
+        "filename": "asia/LB.geojson"
+    }, 
+    {
+        "name": "Republic of Liberia", 
+        "filename": "africa/LR.geojson"
+    }, 
+    {
+        "name": "Libya", 
+        "filename": "africa/LY.geojson"
+    }, 
+    {
+        "name": "Saint Lucia", 
+        "filename": "north-america/LC.geojson"
+    }, 
+    {
+        "name": "Principality of Liechtenstein", 
+        "filename": "europe/LI.geojson"
+    }, 
+    {
+        "name": "Democratic Socialist Republic of Sri Lanka", 
+        "filename": "asia/LK.geojson"
+    }, 
+    {
+        "name": "Kingdom of Lesotho", 
+        "filename": "africa/LS.geojson"
+    }, 
+    {
+        "name": "Republic of Lithuania", 
+        "filename": "europe/LT.geojson"
+    }, 
+    {
+        "name": "Grand Duchy of Luxembourg", 
+        "filename": "europe/LU.geojson"
+    }, 
+    {
+        "name": "Republic of Latvia", 
+        "filename": "europe/LV.geojson"
+    }, 
+    {
+        "name": "Macao Special Administrative Region, PRC", 
+        "filename": "asia/MO.geojson"
+    }, 
+    {
+        "name": "Saint-Martin (French part)", 
+        "filename": "north-america/MF.geojson"
+    }, 
+    {
+        "name": "Kingdom of Morocco", 
+        "filename": "africa/MA.geojson"
+    }, 
+    {
+        "name": "Principality of Monaco", 
+        "filename": "europe/MC.geojson"
+    }, 
+    {
+        "name": "Republic of Moldova", 
+        "filename": "europe/MD.geojson"
+    }, 
+    {
+        "name": "Republic of Madagascar", 
+        "filename": "africa/MG.geojson"
+    }, 
+    {
+        "name": "Republic of Maldives", 
+        "filename": "seven-seas-open-ocean/MV.geojson"
+    }, 
+    {
+        "name": "United Mexican States", 
+        "filename": "north-america/MX.geojson"
+    }, 
+    {
+        "name": "Republic of the Marshall Islands", 
+        "filename": "oceania/MH.geojson"
+    }, 
+    {
+        "name": "Former Yugoslav Republic of Macedonia", 
+        "filename": "europe/MK.geojson"
+    }, 
+    {
+        "name": "Republic of Mali", 
+        "filename": "africa/ML.geojson"
+    }, 
+    {
+        "name": "Republic of Malta", 
+        "filename": "europe/MT.geojson"
+    }, 
+    {
+        "name": "Republic of the Union of Myanmar", 
+        "filename": "asia/MM.geojson"
+    }, 
+    {
+        "name": "Montenegro", 
+        "filename": "europe/ME.geojson"
+    }, 
+    {
+        "name": "Mongolia", 
+        "filename": "asia/MN.geojson"
+    }, 
+    {
+        "name": "Commonwealth of the Northern Mariana Islands", 
+        "filename": "oceania/MP.geojson"
+    }, 
+    {
+        "name": "Republic of Mozambique", 
+        "filename": "africa/MZ.geojson"
+    }, 
+    {
+        "name": "Islamic Republic of Mauritania", 
+        "filename": "africa/MR.geojson"
+    }, 
+    {
+        "name": null, 
+        "filename": "north-america/MS.geojson"
+    }, 
+    {
+        "name": "Republic of Mauritius", 
+        "filename": "seven-seas-open-ocean/MU.geojson"
+    }, 
+    {
+        "name": "Republic of Malawi", 
+        "filename": "africa/MW.geojson"
+    }, 
+    {
+        "name": "Malaysia", 
+        "filename": "asia/MY.geojson"
+    }, 
+    {
+        "name": "Republic of Namibia", 
+        "filename": "africa/NA.geojson"
+    }, 
+    {
+        "name": "New Caledonia", 
+        "filename": "oceania/NC.geojson"
+    }, 
+    {
+        "name": "Republic of Niger", 
+        "filename": "africa/NE.geojson"
+    }, 
+    {
+        "name": "Territory of Norfolk Island", 
+        "filename": "oceania/NF.geojson"
+    }, 
+    {
+        "name": "Federal Republic of Nigeria", 
+        "filename": "africa/NG.geojson"
+    }, 
+    {
+        "name": "Republic of Nicaragua", 
+        "filename": "north-america/NI.geojson"
+    }, 
+    {
+        "name": null, 
+        "filename": "oceania/NU.geojson"
+    }, 
+    {
+        "name": "Kingdom of the Netherlands", 
+        "filename": "europe/NL.geojson"
+    }, 
+    {
+        "disputed": true, 
+        "name": "Kingdom of Norway", 
+        "filename": "europe/norway.geojson"
+    }, 
+    {
+        "name": "Nepal", 
+        "filename": "asia/NP.geojson"
+    }, 
+    {
+        "name": "Republic of Nauru", 
+        "filename": "oceania/NR.geojson"
+    }, 
+    {
+        "name": "New Zealand", 
+        "filename": "oceania/NZ.geojson"
+    }, 
+    {
+        "name": "Sultanate of Oman", 
+        "filename": "asia/OM.geojson"
+    }, 
+    {
+        "name": "Islamic Republic of Pakistan", 
+        "filename": "asia/PK.geojson"
+    }, 
+    {
+        "name": "Republic of Panama", 
+        "filename": "north-america/PA.geojson"
+    }, 
+    {
+        "name": "Pitcairn, Henderson, Ducie and Oeno Islands", 
+        "filename": "oceania/PN.geojson"
+    }, 
+    {
+        "name": "Republic of Peru", 
+        "filename": "south-america/PE.geojson"
+    }, 
+    {
+        "disputed": true, 
+        "name": null, 
+        "filename": "asia/spratly-islands.geojson"
+    }, 
+    {
+        "name": "Republic of the Philippines", 
+        "filename": "asia/PH.geojson"
+    }, 
+    {
+        "name": "Republic of Palau", 
+        "filename": "oceania/PW.geojson"
+    }, 
+    {
+        "name": "Independent State of Papua New Guinea", 
+        "filename": "oceania/PG.geojson"
+    }, 
+    {
+        "name": "Republic of Poland", 
+        "filename": "europe/PL.geojson"
+    }, 
+    {
+        "name": "Commonwealth of Puerto Rico", 
+        "filename": "north-america/PR.geojson"
+    }, 
+    {
+        "name": "Democratic People's Republic of Korea", 
+        "filename": "asia/KP.geojson"
+    }, 
+    {
+        "name": "Portuguese Republic", 
+        "filename": "europe/PT.geojson"
+    }, 
+    {
+        "name": "Republic of Paraguay", 
+        "filename": "south-america/PY.geojson"
+    }, 
+    {
+        "name": "West Bank and Gaza", 
+        "filename": "asia/PS.geojson"
+    }, 
+    {
+        "name": "French Polynesia", 
+        "filename": "oceania/PF.geojson"
+    }, 
+    {
+        "name": "State of Qatar", 
+        "filename": "asia/QA.geojson"
+    }, 
+    {
+        "name": "Romania", 
+        "filename": "europe/RO.geojson"
+    }, 
+    {
+        "name": "Russian Federation", 
+        "filename": "europe/RU.geojson"
+    }, 
+    {
+        "name": "Republic of Rwanda", 
+        "filename": "africa/RW.geojson"
+    }, 
+    {
+        "name": "Sahrawi Arab Democratic Republic", 
+        "filename": "africa/EH.geojson"
+    }, 
+    {
+        "name": "Kingdom of Saudi Arabia", 
+        "filename": "asia/SA.geojson"
+    }, 
+    {
+        "disputed": true, 
+        "name": null, 
+        "filename": "asia/scarborough-reef.geojson"
+    }, 
+    {
+        "name": "Republic of the Sudan", 
+        "filename": "africa/SD.geojson"
+    }, 
+    {
+        "name": "Republic of South Sudan", 
+        "filename": "africa/SS.geojson"
+    }, 
+    {
+        "name": "Republic of Senegal", 
+        "filename": "africa/SN.geojson"
+    }, 
+    {
+        "disputed": true, 
+        "name": null, 
+        "filename": "north-america/serranilla-bank.geojson"
+    }, 
+    {
+        "name": "Republic of Singapore", 
+        "filename": "asia/SG.geojson"
+    }, 
+    {
+        "name": "South Georgia and South Sandwich Islands", 
+        "filename": "seven-seas-open-ocean/GS.geojson"
+    }, 
+    {
+        "name": null, 
+        "filename": "seven-seas-open-ocean/SH.geojson"
+    }, 
+    {
+        "name": null, 
+        "filename": "oceania/SB.geojson"
+    }, 
+    {
+        "name": "Republic of Sierra Leone", 
+        "filename": "africa/SL.geojson"
+    }, 
+    {
+        "name": "Republic of El Salvador", 
+        "filename": "north-america/SV.geojson"
+    }, 
+    {
+        "name": "Republic of San Marino", 
+        "filename": "europe/SM.geojson"
+    }, 
+    {
+        "disputed": true, 
+        "name": "Republic of Somaliland", 
+        "filename": "africa/somaliland.geojson"
+    }, 
+    {
+        "name": "Federal Republic of Somalia", 
+        "filename": "africa/SO.geojson"
+    }, 
+    {
+        "name": "Saint Pierre and Miquelon", 
+        "filename": "north-america/PM.geojson"
+    }, 
+    {
+        "name": "Republic of Serbia", 
+        "filename": "europe/RS.geojson"
+    }, 
+    {
+        "name": "Democratic Republic of S\u00e3o Tom\u00e9 and Principe", 
+        "filename": "africa/ST.geojson"
+    }, 
+    {
+        "name": "Republic of Suriname", 
+        "filename": "south-america/SR.geojson"
+    }, 
+    {
+        "name": "Slovak Republic", 
+        "filename": "europe/SK.geojson"
+    }, 
+    {
+        "name": "Republic of Slovenia", 
+        "filename": "europe/SI.geojson"
+    }, 
+    {
+        "name": "Kingdom of Sweden", 
+        "filename": "europe/SE.geojson"
+    }, 
+    {
+        "name": "Kingdom of Swaziland", 
+        "filename": "africa/SZ.geojson"
+    }, 
+    {
+        "name": "Sint Maarten (Dutch part)", 
+        "filename": "north-america/SX.geojson"
+    }, 
+    {
+        "name": "Republic of Seychelles", 
+        "filename": "seven-seas-open-ocean/SC.geojson"
+    }, 
+    {
+        "name": "Syrian Arab Republic", 
+        "filename": "asia/SY.geojson"
+    }, 
+    {
+        "name": "Turks and Caicos Islands", 
+        "filename": "north-america/TC.geojson"
+    }, 
+    {
+        "name": "Republic of Chad", 
+        "filename": "africa/TD.geojson"
+    }, 
+    {
+        "name": "Togolese Republic", 
+        "filename": "africa/TG.geojson"
+    }, 
+    {
+        "name": "Kingdom of Thailand", 
+        "filename": "asia/TH.geojson"
+    }, 
+    {
+        "name": "Republic of Tajikistan", 
+        "filename": "asia/TJ.geojson"
+    }, 
+    {
+        "name": "Turkmenistan", 
+        "filename": "asia/TM.geojson"
+    }, 
+    {
+        "name": "Democratic Republic of Timor-Leste", 
+        "filename": "asia/TL.geojson"
+    }, 
+    {
+        "name": "Kingdom of Tonga", 
+        "filename": "oceania/TO.geojson"
+    }, 
+    {
+        "name": "Republic of Trinidad and Tobago", 
+        "filename": "north-america/TT.geojson"
+    }, 
+    {
+        "name": "Republic of Tunisia", 
+        "filename": "africa/TN.geojson"
+    }, 
+    {
+        "name": "Republic of Turkey", 
+        "filename": "asia/TR.geojson"
+    }, 
+    {
+        "name": "Tuvalu", 
+        "filename": "oceania/TV.geojson"
+    }, 
+    {
+        "name": null, 
+        "filename": "asia/TW.geojson"
+    }, 
+    {
+        "name": "United Republic of Tanzania", 
+        "filename": "africa/TZ.geojson"
+    }, 
+    {
+        "name": "Republic of Uganda", 
+        "filename": "africa/UG.geojson"
+    }, 
+    {
+        "name": "Ukraine", 
+        "filename": "europe/UA.geojson"
+    }, 
+    {
+        "name": null, 
+        "filename": "north-america/UM.geojson"
+    }, 
+    {
+        "name": "Oriental Republic of Uruguay", 
+        "filename": "south-america/UY.geojson"
+    }, 
+    {
+        "name": "United States of America", 
+        "filename": "north-america/US.geojson"
+    }, 
+    {
+        "disputed": true, 
+        "name": null, 
+        "filename": "north-america/us-naval-base-guantanamo-bay.geojson"
+    }, 
+    {
+        "name": "Republic of Uzbekistan", 
+        "filename": "asia/UZ.geojson"
+    }, 
+    {
+        "name": "State of the Vatican City", 
+        "filename": "europe/VA.geojson"
+    }, 
+    {
+        "name": "Saint Vincent and the Grenadines", 
+        "filename": "north-america/VC.geojson"
+    }, 
+    {
+        "name": "Bolivarian Republic of Venezuela", 
+        "filename": "south-america/VE.geojson"
+    }, 
+    {
+        "name": "British Virgin Islands", 
+        "filename": "north-america/VG.geojson"
+    }, 
+    {
+        "name": "Virgin Islands of the United States", 
+        "filename": "north-america/VI.geojson"
+    }, 
+    {
+        "name": "Socialist Republic of Vietnam", 
+        "filename": "asia/VN.geojson"
+    }, 
+    {
+        "name": "Republic of Vanuatu", 
+        "filename": "oceania/VU.geojson"
+    }, 
+    {
+        "name": "Wallis and Futuna Islands", 
+        "filename": "oceania/WF.geojson"
+    }, 
+    {
+        "disputed": true, 
+        "name": null, 
+        "filename": "asia/akrotiri-sovereign-base-area.geojson"
+    }, 
+    {
+        "name": "Independent State of Samoa", 
+        "filename": "oceania/WS.geojson"
+    }, 
+    {
+        "name": "Republic of Yemen", 
+        "filename": "asia/YE.geojson"
+    }, 
+    {
+        "name": "Republic of South Africa", 
+        "filename": "africa/ZA.geojson"
+    }, 
+    {
+        "name": "Republic of Zambia", 
+        "filename": "africa/ZM.geojson"
+    }, 
+    {
+        "name": "Republic of Zimbabwe", 
+        "filename": "africa/ZW.geojson"
+    }
+]
