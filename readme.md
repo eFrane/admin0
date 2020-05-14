@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/22149507.svg)](https://zenodo.org/badge/latestdoi/22149507)
+
 # admin0 geojson
 
 This geojson data was extracted from natural earth 3.1
