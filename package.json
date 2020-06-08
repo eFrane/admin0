@@ -1,6 +1,7 @@
 {
   "name": "admin0",
   "version": "4.0.1",
+  "license": "CC0-1.0",
   "description": "admin0 country boundaries from naturalearth data, represents natural earth v3.1.0",
   "repository": {
     "type": "git",
